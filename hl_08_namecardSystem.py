@@ -1,0 +1,18 @@
+print("*" * 50)
+print("欢迎使用【名片管理系统】 V1.0\n")
+print("1.新建名片")
+print("2.显示全部")
+print("3.查询名片\n")
+print("0.退出系统")
+print("*" * 50)
+choice = input("请选择操作功能：")
+print("你选择的操作是： %s" % choice)
+print("*" * 50)
+if choice == "1":
+    print("功能：新建名片")
+    name = input("请输入名字：")
+    age = input("请输入年龄：")
+    phone = input("请输入电话：")
+    print("成功添加 %s 的名片" % name )
+    print("*" * 50)
+elif choice == "2":

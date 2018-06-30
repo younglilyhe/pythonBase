@@ -1,0 +1,17 @@
+lily_tuple = ()
+print(type(lily_tuple))
+lily_tuple1 = 5
+print(type(lily_tuple1))
+lily_tuple2 = (5,)
+print(type(lily_tuple2))
+lily_tuple3 = (5, "test", 2.55)
+print(type(lily_tuple2))
+lily_list = list(lily_tuple2)
+print(type(lily_list))
+lily_tuple_ = tuple(lily_list)
+print(type(lily_tuple_))
+
+other_tuple = (1, 5, 2, 3)
+print(len(other_tuple))
+print(max(other_tuple))
+print(min(other_tuple))
