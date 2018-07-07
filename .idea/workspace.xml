@@ -10,7 +10,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="hl_06_singleton_pattern.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hl_06_singleton_pattern.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,21 +50,23 @@
         <option value="$PROJECT_DIR$/hl_02_python_oo/hl_01_main.py" />
         <option value="$PROJECT_DIR$/hl_02_python_oo/hl_01_self.py" />
         <option value="$PROJECT_DIR$/hl_03_fengzhuang/01_Aminal.py" />
+        <option value="$PROJECT_DIR$/hl_04_class_method.py" />
+        <option value="$PROJECT_DIR$/hl_05_staticmethod.py" />
+        <option value="$PROJECT_DIR$/hl_06_singleton_pattern.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="297" />
-    <option name="y" value="148" />
+    <option name="x" value="134" />
+    <option name="y" value="60" />
     <option name="width" value="1104" />
-    <option name="height" value="831" />
+    <option name="height" value="902" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -62,20 +74,11 @@
               <item name="pythonBase01" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonBase01" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pythonBase01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonBase01" type="462c0819:PsiDirectoryNode" />
-              <item name="hl_02_python_oo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonBase01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonBase01" type="462c0819:PsiDirectoryNode" />
-              <item name="hl_03_fengzhuang" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -99,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01_Aminal">
+  <component name="RunManager" selected="Python.hl_06_singleton_pattern">
     <configuration name="01_Aminal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="01_PythonDay01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +139,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="hl_07_commonMethod" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hl_04_class_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="01_PythonDay01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,13 +151,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\myGithubProjects\python\pythonBase01\hl_01_base\hl_07_commonMethod.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hl_04_class_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="hl_09_" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hl_05_staticmethod" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="01_PythonDay01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,13 +169,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Program Files\Python\01_PythonDay01\hl_09_variable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hl_05_staticmethod.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="hl_10_variable_type" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hl_06_singleton_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="01_PythonDay01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,26 +187,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\myGithubProjects\python\pythonBase01\hl_01_base\hl_10_variable_type.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hl_06_singleton_pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.hl_07_commonMethod" />
-      <item itemvalue="Python.hl_09_" />
-      <item itemvalue="Python.hl_10_variable_type" />
       <item itemvalue="Python.hl_01_self" />
       <item itemvalue="Python.01_Aminal" />
+      <item itemvalue="Python.hl_04_class_method" />
+      <item itemvalue="Python.hl_05_staticmethod" />
+      <item itemvalue="Python.hl_06_singleton_pattern" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hl_06_singleton_pattern" />
+        <item itemvalue="Python.hl_05_staticmethod" />
+        <item itemvalue="Python.hl_04_class_method" />
         <item itemvalue="Python.01_Aminal" />
         <item itemvalue="Python.hl_01_self" />
-        <item itemvalue="Python.hl_10_variable_type" />
-        <item itemvalue="Python.hl_09_" />
-        <item itemvalue="Python.hl_07_commonMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -221,18 +224,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="297" y="148" width="1104" height="831" extended-state="1" />
+    <frame x="57" y="43" width="1104" height="902" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25891182" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24246396" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21387284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32803467" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32803467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41301274" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -247,31 +251,16 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="12" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hl_05_staticmethod.py</url>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hl_01_base/hl_03_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hl_01_base/hl_04_tuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hl_01_base/hl_10_variable_type.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hl_01_base/hl_08_namecardSystem.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -587,9 +576,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hl_04_class_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hl_05_staticmethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
           <folding>
-            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#28#67#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hl_06_singleton_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
         </state>
       </provider>
     </entry>
